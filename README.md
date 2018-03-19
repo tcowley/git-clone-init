@@ -33,7 +33,7 @@ esac
 
 ## Usage
 
-Just do a normal "git clone" as usual.
+Do a normal "git clone" as usual.
 
 ## Known issues
 
